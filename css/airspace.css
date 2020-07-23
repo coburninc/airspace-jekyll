@@ -97,7 +97,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider Start
 --*/
 #slider {
-  background: url("../img/slider-bg.jpg") no-repeat;
+  background: url("../img/engines.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
@@ -113,7 +113,7 @@ font header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #8b86a3, #322e40);
+  background: linear-gradient(to left, #374F6B, #374f6b9a);
   opacity: 0.8;
 }
 #slider .block {
@@ -146,7 +146,7 @@ font header .navbar-default .navbar-nav li a:hover {
   margin: 0;
 }
 #intro .block p {
-  color: #7B7B7B;
+  color: #525252;
   padding-top: 20px;
 }
 #intro .block img {
@@ -262,7 +262,7 @@ font header .navbar-default .navbar-nav li a:hover {
   margin-bottom: 20px;
 }
 #feature .btn-view-works {
-  background: #655E7A;
+  background: #4c6e7d7d;
   color: #fff;
   padding: 10px 20px;
 }
@@ -279,7 +279,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #testimonial .block p {
   padding-top: 50px;
-  color: #7B7B7B;
+  color: #525252;
 }
 #testimonial .counter-box li {
   width: 50%;
@@ -358,7 +358,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider-work Start
 --*/
 #global-header {
-  background: url("../img/slider-bg.jpg") no-repeat;
+  background: url("../img/engines.jpg") no-repeat;
   background-size: cover;
   padding-top: 150px;
   padding-bottom: 107px;
@@ -425,7 +425,7 @@ font header .navbar-default .navbar-nav li a:hover {
   position: relative;
 }
 #portfolio-work .block .portfolio-menu ul .active {
-  color: #655E7A;
+  color: #4C6E7D7d;
   position: relative;
 }
 #portfolio-work .block .portfolio-menu ul .active:before {
@@ -499,7 +499,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #portfolio-work .block .portfolio-contant ul li a span {
   font-style: italic;
   font-size: 13px;
-  color: #655E7A;
+  color: #4C6E7D7d;
 }
 #portfolio-work .block .portfolio-contant ul img {
   width: 100%;
@@ -607,7 +607,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	slider-contact Start
 --*/
 #slider-contact {
-  background: url("../img/slider-bg.jpg") no-repeat;
+  background: url("../img/engines.jpg") no-repeat;
   background-size: cover;
   padding-top: 150px;
   padding-bottom: 107px;
